@@ -287,7 +287,7 @@ const Users = [
         },
       ];
 
-    module.exports = {
+      exports.db = {
         Users,
         categories,
         reviews,
